@@ -1,8 +1,8 @@
 package data
 
-import "github.com/Jonas-Hoang/golang_reful_todolist/pkg/dto"
+import "resful_api/pkg/dto"
 
-var Todo []dto.Todo
+var Todos []dto.Todo
 
 func init() {
 	Todos = []dto.Todo{

@@ -1,4 +1,4 @@
-module github.com/Jonas-Hoang/golang_reful_todolist
+module resful_api
 
 go 1.19
 
