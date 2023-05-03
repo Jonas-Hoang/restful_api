@@ -1,6 +1,8 @@
 package data
 
-import "resful_api/pkg/dto"
+import (
+	"resful_api/pkg/dto"
+)
 
 var Todos []dto.Todo
 
